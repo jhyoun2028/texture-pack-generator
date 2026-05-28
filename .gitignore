@@ -1,0 +1,13 @@
+node_modules
+dist
+dist-ssr
+.DS_Store
+*.log
+.env
+.env.local
+.vite
+coverage
+
+# Never commit user-uploaded or vanilla Minecraft packs
+fixtures/*.zip
+fixtures/*.jar
